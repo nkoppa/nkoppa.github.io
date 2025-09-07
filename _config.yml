@@ -1,0 +1,7 @@
+title: "Nisha Koppa"
+description: "Climate, trade, food security."
+theme: jekyll-theme-cayman   
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+include: ["assets"]       
