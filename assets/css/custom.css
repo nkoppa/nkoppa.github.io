@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600;700&family=Lora:wght@700&display=swap");
+
+body { font-family: "Source Serif 4", serif; background: #f7f2f5; }
+h1,h2,h3,h4 { font-family: "Lora", serif; font-weight: 700; }
+
+.main-content {
+  max-width: 780px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 0 1.2rem 3rem;
+}
+
+/* pastel top bar */
+.site-header { background: #d7bac8 !important; border: none; }
+
+/* links look like text links */
+a { text-decoration: underline; }
