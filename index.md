@@ -1,10 +1,13 @@
 ---
-layout: page
----
+title: "Nisha Koppa"        
+layout: default
+# description: "" 
+
+
 <link rel="stylesheet" href="/assets/css/custom.css?v=3"> 
 
 
-# Nisha Koppa
+# About Me
 
 Hello! My name is Nisha. If you just stumbled across this, here’s a brief intro about what I do:
 
@@ -18,14 +21,11 @@ Essentially, if you’ve ever wondered why shelves empty during droughts or why 
 
 ### Academic Papers
 
-- **Geospatial assessment of flood-tolerant rice varieties to guide climate adaptation strategies in India**  
-  *N. Koppa, G. Amarnath* *Climate*, 9(10), 151 (2021). [Link](https://doi.org/10.3390/cli9100151)  
+- **Geospatial assessment of flood-tolerant rice varieties to guide climate adaptation strategies in India** *N. Koppa, G. Amarnath* *Climate*, 9(10), 151 (2021). [Link](https://doi.org/10.3390/cli9100151)  
 
-- **Statistical downscaling differences strongly alter projected climate damages**  
-  *S. Miller, N. Ormaza-Zulueta, N. Koppa, A. Dancer*  *Communications Earth & Environment*, 6(1), 145 (2025). [Link](https://doi.org/10.1038/s43247-025-01145-7)  
+- **Statistical downscaling differences strongly alter projected climate damages** *S. Miller, N. Ormaza-Zulueta, N. Koppa, A. Dancer*  *Communications Earth & Environment*, 6(1), 145 (2025). [Link](https://doi.org/10.1038/s43247-025-01145-7)  
 
-- **Review of Existing Platforms, Gaps and Challenges in CIS delivery in Zambia**  
-  *G. Amarnath, N. Alahacon, N. Koppa, T. Sharma, N. Ngowenani, …*  *Accelerating Impacts of CGIAR Climate Research for Africa* (2022). [Link](https://www.climate.cgiar.org/)  
+- **Review of Existing Platforms, Gaps and Challenges in CIS delivery in Zambia** *G. Amarnath, N. Alahacon, N. Koppa, T. Sharma, N. Ngowenani, …*  *Accelerating Impacts of CGIAR Climate Research for Africa* (2022). [Link](https://www.climate.cgiar.org/)  
 
 ### Contact Information
 - [Email](mailto:nisha.koppa@colorado.edu)
