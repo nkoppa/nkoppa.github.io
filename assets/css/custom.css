@@ -1,23 +1,45 @@
 
+
+/* fonts */
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
 
-/* Base */
 html, body {
-  font-family: "Lato", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  background: #f7f2f5;                 /* soft page tint */
+  font-family: "Lato", "Segoe UI", "Helvetica Neue", Arial, sans-serif !important;
+  background: #f7f2f5;
   color: #2e2e2e;
   line-height: 1.6;
 }
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Lato", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  font-weight: 900;
-  color: #2e2e2e;                       /* neutral dark (no green/cyan) */
-  letter-spacing: 0.2px;
+/* changing the color from green to plum/pink */
+.page-header {
+  background-color: #d7bac8 !important;   /* pastel plum */
+  background-image: none !important;      /* remove Cayman gradient */
+  border: 0 !important;
 }
 
-/*Content column */
+.project-name,
+.project-tagline {
+  color: #2e2e2e !important;              /* neutral dark */
+}
+
+
+a, a:visited {
+  color: #7d2f52 !important;              
+  text-decoration: underline;
+}
+a:hover { color: #5c1f3a !important; }
+
+.btn {
+  background-color: #7d2f52 !important;
+  border-color: #7d2f52 !important;
+  color: #fff !important;
+}
+.btn:hover {
+  background-color: #5c1f3a !important;
+  border-color: #5c1f3a !important;
+}
+
+/*  Content column */
 .main-content {
   max-width: 780px;
   margin: 0 auto;
@@ -25,48 +47,25 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 1.2rem 3rem;
 }
 
-/* Pastel header bar (top nav area in Cayman theme) */
-.site-header {
-  background: #d7bac8 !important;       /* pastel plum */
-  border: none !important;
-}
-
-/* Links: plum accent */
-a, a:visited { 
-  color: #7d2f52;                       /* plum */
-  text-decoration: underline;
-}
-a:hover { 
-  color: #5c1f3a;                       /* darker plum on hover */
-}
-
-/* Lists spacing a bit tighter */
-ul, ol { padding-left: 1.2rem; }
-
-
+/* Footer (icons optional)  */
 .site-footer {
-  background: #d7bac8;                  /* same pastel as header */
+  background: #d7bac8;
   margin-top: 3rem;
   padding: 28px 0 36px;
   text-align: center;
   color: #2e2e2e;
 }
 
-/* icon row */
+/* Icon row  */
 .icon-row {
   display: flex;
   justify-content: center;
   gap: 16px;
   margin-bottom: 10px;
 }
-
-/* circular icon buttons */
 .icon-btn {
-  width: 44px;
-  height: 44px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  width: 44px; height: 44px;
+  display: inline-flex; align-items: center; justify-content: center;
   border-radius: 9999px;
   background: #ffffff;
   border: 1px solid #c9aebb;
@@ -78,21 +77,13 @@ ul, ol { padding-left: 1.2rem; }
   box-shadow: 0 4px 10px rgba(0,0,0,0.10);
   border-color: #a57a8e;
 }
-
-/* SVG icons color */
 .icon-btn svg {
-  width: 22px;
-  height: 22px;
-  fill: #7d2f52;                      
+  width: 22px; height: 22px;
+  fill: #7d2f52;
 }
 
-/* footer tiny text */
-.site-footer .footnote {
-  font-size: 0.9rem;
-  opacity: 0.9;
-}
 
-/* Make footer stick out from content block edges on small screens */
 @media (max-width: 860px) {
   .main-content { padding: 0 1rem 2.5rem; }
 }
+
