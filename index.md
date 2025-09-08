@@ -1,13 +1,34 @@
-# About Me
+---
+title: About Me
+layout: default
+---
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+
+# Nisha Koppa
 
 Hello! My name is Nisha. If you just stumbled across this, here’s a brief intro about what I do:
 
 I’m a 3rd year PhD student in Environmental Studies at the University of Colorado Boulder. I also hold a Masters degree in Economic Development from Lund University, Sweden and a Bachelors in Economics from India. 
 
-As part of my PhD, I work on something that touches everyone: **Food**. Specifically,I study how climate change and policy decisions ripple through global food systems — from government trade interventions to the everyday choices of farmers. My work spans three themes: the role of trade policy during climate shocks, how path-dependent institutions lock in agricultural practices, and how farmers adapt on the ground. Together, these strands help me ask: what makes our food systems resilient, and what holds them back? Essentially, if you’ve ever wondered why shelves empty during droughts or why countries suddenly ban exports, that’s the kind of puzzle I study. 
+As part of my PhD, I work on something that touches everyone: **Food**. Specifically,I study how climate change and policy decisions ripple through global food systems — from government trade interventions to the everyday choices of farmers. My work spans three themes: the role of trade policy during climate shocks, how path-dependent institutions lock in agricultural practices, and how farmers adapt on the ground. Together, these strands help me ask: what makes our food systems resilient, and what holds them back? 
 
+Essentially, if you’ve ever wondered why shelves empty during droughts or why countries suddenly ban exports, that’s the kind of puzzle I study. 
+
+## My work
+
+### Academic Papers
+
+- **Geospatial assessment of flood-tolerant rice varieties to guide climate adaptation strategies in India**  
+  *N. Koppa, G. Amarnath* *Climate*, 9(10), 151 (2021). [Link](https://doi.org/10.3390/cli9100151)  
+
+- **Statistical downscaling differences strongly alter projected climate damages**  
+  *S. Miller, N. Ormaza-Zulueta, N. Koppa, A. Dancer*  *Communications Earth & Environment*, 6(1), 145 (2025). [Link](https://doi.org/10.1038/s43247-025-01145-7)  
+
+- **Review of Existing Platforms, Gaps and Challenges in CIS delivery in Zambia**  
+  *G. Amarnath, N. Alahacon, N. Koppa, T. Sharma, N. Ngowenani, …*  *Accelerating Impacts of CGIAR Climate Research for Africa* (2022). [Link](https://www.climate.cgiar.org/)  
 
 ### Contact Information
-* Email 
-* Linkedin 
-* Github
+- [Email] (mailto: nisha.koppa@colorado.edu)
+- [Linkedin] (https://www.linkedin.com/in/nisha-koppa-44a642120/)
+- [Github] (https://github.com/nkoppa) 
