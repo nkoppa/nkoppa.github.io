@@ -8,8 +8,9 @@ layout: default
 
 <link rel="stylesheet" href="/assets/css/custom.css?v=3"> 
 
+<img src="/assets/img/me.jpg" alt="Nisha Koppa" width="220" style="border-radius: 50%; display: block; margin: 0 auto 2rem; border: 3px solid #d7bac8; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 
-# About Me
+# **About Me**
 
 Hello! My name is Nisha. If you just stumbled across this, here’s a brief intro about what I do:
 
@@ -19,9 +20,9 @@ As part of my PhD, I work on something that touches everyone: **Food**. Specific
 
 Essentially, if you’ve ever wondered why shelves empty during droughts or why countries suddenly ban exports, that’s the kind of puzzle I study. 
 
-## My work
+# **My work**
 
-### Academic Papers
+## **Academic Papers**
 
 - **Geospatial assessment of flood-tolerant rice varieties to guide climate adaptation strategies in India** *N. Koppa, G. Amarnath* *Climate*, 9(10), 151 (2021). [Link](https://doi.org/10.3390/cli9100151)  
 
