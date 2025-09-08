@@ -17,7 +17,7 @@ layout: default
 
 Hello! My name is Nisha. If you just stumbled across this, here’s a brief intro about what I do:
 
-I’m a 3rd year PhD student in Environmental Studies at the University of Colorado Boulder. I also hold a Masters degree in Economic Development from Lund University, Sweden and a Bachelors in Economics from India. 
+I’m a 3rd year PhD student in [Environmental Studies](https://www.colorado.edu/envs/) at the University of Colorado Boulder. I also hold a Masters degree in [Economic Development](https://www.lusem.lu.se/study/masters-programmes/global-development-population-and-economic-change-masters-programme) from Lund University, Sweden and a Bachelors (Research) in [Economics](https://snu.edu.in/programs/bsc-research-in-economics/) from India. 
 
 As part of my PhD, I work on something that touches everyone: **Food**. Specifically,I study how climate change and policy decisions ripple through global food systems — from government trade interventions to the everyday choices of farmers. My work spans three themes: the role of trade policy during climate shocks, how path-dependent institutions lock in agricultural practices, and how farmers adapt on the ground. Together, these strands help me ask: what makes our food systems resilient, and what holds them back? 
 
