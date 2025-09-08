@@ -3,7 +3,8 @@ title: About Me
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css">
+<link rel="stylesheet" href="/assets/css/custom.css?v=3">
+
 
 # Nisha Koppa
 
