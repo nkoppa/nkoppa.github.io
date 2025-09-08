@@ -1,9 +1,7 @@
 ---
-title: About Me
-layout: default
+layout: page
 ---
-
-<link rel="stylesheet" href="/assets/css/custom.css?v=3">
+<link rel="stylesheet" href="/assets/css/custom.css?v=3"> 
 
 
 # Nisha Koppa
