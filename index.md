@@ -15,7 +15,7 @@ layout: default
 
 # **About Me**
 
-Hello! My name is Nisha. If you just stumbled across this, here’s a brief intro about what I do:
+Hello! My name is Nisha. If you just stumbled across this, here’s a little bit about me:
 
 I’m a 3rd year PhD student in [Environmental Studies](https://www.colorado.edu/envs/) at the University of Colorado Boulder. I also hold a Masters degree in [Economic Development](https://www.lusem.lu.se/study/masters-programmes/global-development-population-and-economic-change-masters-programme) from Lund University, Sweden and a Bachelors (Research) in [Economics](https://snu.edu.in/programs/bsc-research-in-economics/) from India. 
 
