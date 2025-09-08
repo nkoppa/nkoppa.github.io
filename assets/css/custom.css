@@ -101,3 +101,8 @@ a:hover { color: #5c1f3a !important; }
   color: #2e2e2e !important;
 }
 
+/* Center section headings */
+.main-content h1,
+.main-content h2 {
+  text-align: center;
+}
