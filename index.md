@@ -32,6 +32,4 @@ As part of my PhD, I work on something that touches everyone: **Food**. Specific
 **Review of Existing Platforms, Gaps and Challenges in CIS delivery in Zambia** *G. Amarnath, N. Alahacon, N. Koppa, T. Sharma, N. Ngowenani, …*  *Accelerating Impacts of CGIAR Climate Research for Africa* (2022). [Link](https://www.climate.cgiar.org/)  
 
 # **Contact Information**
-- [Email](mailto:nisha.koppa@colorado.edu)
-- [Linkedin](https://www.linkedin.com/in/nisha-koppa-44a642120/)
-- [Github](https://github.com/nkoppa) 
+[Email](mailto:nisha.koppa@colorado.edu) . [Linkedin](https://www.linkedin.com/in/nisha-koppa-44a642120/) . [Github](https://github.com/nkoppa) 
