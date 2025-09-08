@@ -8,9 +8,9 @@ layout: default
 
 <link rel="stylesheet" href="/assets/css/custom.css?v=3"> 
 
-<img src="/assets/img/me.jpg" alt="Nisha Koppa" width="220" 
-     style="border-radius: 50%; display: block; margin: 0 auto 2rem; 
-            border: 3px solid #d7bac8; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+<img src="/assets/img/me.jpg" alt="Nisha Koppa" width="320" 
+     style="border-radius: 50%; display: block; margin: 0 auto 2rem; height:auto;
+            border: 4px solid #d7bac8; box-shadow: 0 6px 14px rgba(0,0,0,0.12);">
 
 
 # **About Me**
