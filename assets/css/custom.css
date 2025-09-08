@@ -87,3 +87,17 @@ a:hover { color: #5c1f3a !important; }
   .main-content { padding: 0 1rem 2.5rem; }
 }
 
+@media (max-width: 860px) {
+  .main-content { padding: 0 1rem 2.5rem; }
+}
+
+/* Force all headings inside the content area to be neutral dark */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #2e2e2e !important;
+}
+
