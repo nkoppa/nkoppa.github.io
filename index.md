@@ -21,7 +21,7 @@ I’m a 3rd year PhD student in [Environmental Studies](https://www.colorado.edu
 
 As part of my PhD, I work on something that touches everyone: **Food**. Specifically,I study how climate change and policy decisions ripple through global food systems — from government trade interventions to the everyday choices of farmers. My work spans three themes: the role of trade policy during climate shocks, how path-dependent institutions lock in agricultural practices, and how farmers adapt on the ground. Put together, I intend to explore how we can make our food systems resilient and what holds them back.  
 
-# **My work**
+# **Publications**
 
 ## **Academic Papers**
 
@@ -30,6 +30,14 @@ As part of my PhD, I work on something that touches everyone: **Food**. Specific
 **Statistical downscaling differences strongly alter projected climate damages** *S. Miller, N. Ormaza-Zulueta, N. Koppa, A. Dancer*  *Communications Earth & Environment*, 6(1), 145 (2025). [Link](https://doi.org/10.1038/s43247-025-01145-7)  
 
 **Review of Existing Platforms, Gaps and Challenges in CIS delivery in Zambia** *G. Amarnath, N. Alahacon, N. Koppa, T. Sharma, N. Ngowenani, …*  *Accelerating Impacts of CGIAR Climate Research for Africa* (2022). [Link](https://www.climate.cgiar.org/)  
+
+
+### Map of CU Boulder ###
+
+<embed type="text/html" src="assets/img/CU.html" width="400" height="400">
+
+
+
 
 # **Contact Information**
 [Email](mailto:nisha.koppa@colorado.edu) . [Linkedin](https://www.linkedin.com/in/nisha-koppa-44a642120/) . [Github](https://github.com/nkoppa) 
