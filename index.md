@@ -31,17 +31,17 @@ As part of my PhD, I work on something that touches everyone: **Food**. Specific
 
 **Review of Existing Platforms, Gaps and Challenges in CIS delivery in Zambia** *G. Amarnath, N. Alahacon, N. Koppa, T. Sharma, N. Ngowenani, …*  *Accelerating Impacts of CGIAR Climate Research for Africa* (2022). [Link](https://www.climate.cgiar.org/)  
 
-## **Earth Data Science Assignment Posts** 
+## **Earth Data Science Projects** 
 
-### 1. Map of CU Boulder ###
+#### **1. Map of CU Boulder** 
 
 <embed type="text/html" src="assets/img/CU.html" width="400" height="400">
 
-### 2. Warming in Death Valley National Park (1990–2024)
+#### **2. Warming in Death Valley National Park (1990–2024)**
 
 ![Annual Average Temperature in Death Valley National Park (1990–2024)](assets/img/death_valley_temp.png)
 
-From 1990 to 2024, annual average temperature in Death Valley rose by **~0.125 °C per year** (**~1.25 °C per decade**). Most of the warmest years occur after 2015. A simple OLS fit explains **~75%** of year-to-year variation, indicating a strong upward trend.
+From 1990 to 2024, annual average temperature in Death Valley rose by **~0.125 °C per year** (**~1.25 °C per decade**). Most of the warmest years occur after 2015. A simple OLS fit explains **~75%** of year-to-year variation, indicating a strong upward trend. 
 
 
 
