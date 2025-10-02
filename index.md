@@ -41,7 +41,7 @@ As part of my PhD, I work on something that touches everyone: **Food**. Specific
 
 ![Annual Average Temperature in Death Valley National Park (1990–2024)](assets/img/death_valley_temp.png)
 
-From 1990 to 2024, annual average temperature in Death Valley rose by **~0.125 °C per year** (**~1.25 °C per decade**). Most of the warmest years occur after 2015. A simple OLS fit explains **~75%** of year-to-year variation, indicating a strong upward trend. [<a href="{{ '/assets/img/climate-coding-portfolio-assignment-2.html' | relative_url }}"
+Death Valley National Park in eastern California is famous for record heat, extreme aridity, and below-sea-level basins. Stark landscapes—salt flats, dunes, badlands, and spring-fed oases—host desert-adapted species living near thermal limits. That makes the park a clear setting to examine recent warming. As seen from the fugure above, from 1990 to 2024, annual average temperature in Death Valley rose by **~0.125 °C per year** (**~1.25 °C per decade**). Most of the warmest years occur after 2015. A simple OLS fit explains **~75%** of year-to-year variation, indicating a strong upward trend. [<a href="{{ '/assets/img/climate-coding-portfolio-assignment-2.html' | relative_url }}"
    target="_blank" rel="noopener">View full workflow</a>]
 
 
