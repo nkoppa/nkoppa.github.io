@@ -39,7 +39,7 @@ As part of my PhD, I work on something that touches everyone: **Food**. Specific
 
 ### 2. Warming in Death Valley National Park (1990–2024)
 
-![Annual Average Temperature in Death Valley National Park (1990–2024)]({{ '/assets/img/death-valley-trend.png' | relative_url }})
+![Annual Average Temperature in Death Valley National Park (1990–2024)](assets/img/death_valley_temp.png)
 
 From 1990 to 2024, annual average temperature in Death Valley rose by **~0.125 °C per year** (**~1.25 °C per decade**). Most of the warmest years occur after 2015. A simple OLS fit explains **~75%** of year-to-year variation, indicating a strong upward trend.
 
