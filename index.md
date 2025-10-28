@@ -49,15 +49,10 @@ Death Valley National Park in eastern California is famous for record heat, extr
 
 #### **Exploring Swainsons Thrush ((Catharus ustulatus) Migration in the 2023 using Global Biodiversity Information Facility (GBIF)**
 
-<p align="center">
-  <img src="img/Swainson.jpeg" alt="Swainson’s Thrush" width="400">
-  <br>
-  <em>Swainson’s Thrush (<i>Catharus ustulatus</i>) — Photo credit: 
-    <a href="https://birdsoftheworld.org/bow/species/swathr/cur/introduction" target="_blank">
-      Birds of the World
-    </a>
-  </em>
-</p>
+![Swainson’s Thrush](img/Swainson.jpeg)
+
+*Swainson’s Thrush (*Catharus ustulatus*) — Photo credit: [Birds of the World](https://birdsoftheworld.org/bow/species/swathr/cur/introduction)*
+
 
 
 **Background**
