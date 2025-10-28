@@ -47,7 +47,7 @@ Death Valley National Park in eastern California is famous for record heat, extr
 
 #### **3. Species Migration**
 
-#### **Exploring Swainsons Thrush ((Catharus ustulatus) Migration in the 2023 using Global Biodiversity Information Facility (GBIF)**
+#### **Exploring Swainsons Thrush (Catharus ustulatus) Migration in the 2023 using Global Biodiversity Information Facility (GBIF)**
 
 ![Swainson’s Thrush](assets/img/Swainson.jpeg)
 
@@ -57,11 +57,12 @@ Swainson’s Thrush (Catharus ustulatus) — Photo credit: [Birds of the World](
 
 **Background**
 
-Swainson’s Thrush (scientific name Catharus ustulatus), is a small to medium-sized **migratory songbird** in the thrush family (Turdidae). It is known for its olive-brown back, buff-colored underparts, a distinct pale eye-ring, and a slightly spotted breast. The species is distributed widely across northern North America for breeding, and winters in Central and South America. The species includes two main subspecies groups — a coastal russet-back group and an inland olive-back group — which differ in both appearance and migration routes, reflecting their evolutionary divergence ([Audubon.org](https://www.audubon.org/field-guide/bird/swainsons-thrush))
+Swainson’s Thrush (scientific name Catharus ustulatus), is a small to medium-sized **migratory songbird** in the thrush family (Turdidae). It is known for its olive-brown back, buff-colored underparts, a distinct pale eye-ring, and a slightly spotted breast. The species is distributed widely across northern North America for breeding, and winters in Central and South America. ([Audubon.org](https://www.audubon.org/field-guide/bird/swainsons-thrush))
+
 
 As a classic Nearctic–Neotropical migrant, Swainson’s Thrush travels thousands of kilometers each year. Spring migration typically occurs from mid-March to early June, while fall migration spans late July to early November. Inland birds tend to follow interior routes through the central U.S. into Central America, whereas coastal populations use a more Pacific flyway. These birds rely on forested stopover habitats along their route for rest and refueling, making them particularly sensitive to habitat changes across a vast geographic range ([E-bird Status and Trends](https://science.ebird.org/en/status-and-trends/species/swathr/range-map))
 
-Though still relatively common, Swainson’s Thrush faces growing threats from habitat loss, window strikes during nocturnal flights, and potential climate-related shifts in food availability. Because different populations use distinct migration corridors, conservation strategies must account for their migratory connectivity — protecting not just breeding grounds, but also critical stopover and wintering habitats. Recent tracking efforts, such as those using Motus stations, are helping scientists better understand these movements and support targeted conservation actions ([Humpel et al., (2020)](https://www.nature.com/articles/s41598-020-62132-6))
+Although Swainson's Thrush is still considered one of the most common birds of northern spruce-fir forests, populations are declining even where abundant, particularly in Alaska and the Northeast ([Birds of the world](https://birdsoftheworld.org/bow/species/swathr/1.0/introduction?printable). While the reasons are not known yet, the Swainson’s Thrush faces growing threats from habitat loss, window strikes during nocturnal flights, and potential climate-related shifts in food availability. As different populations use distinct migration corridors, conservation strategies must account for their migratory connectivity — protecting not just breeding grounds, but also critical stopover and wintering habitats.([Humpel et al., (2020)](https://www.nature.com/articles/s41598-020-62132-6))
 
 
 **Data and Methods**
