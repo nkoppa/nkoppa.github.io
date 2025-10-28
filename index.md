@@ -50,9 +50,14 @@ Death Valley National Park in eastern California is famous for record heat, extr
 ##### *Exploring Swainsons Thrush ((Catharus ustulatus) Migration in the 2023 using Global Biodiversity Information Facility (GBIF)*
 
 
+![Swainson’s Thrush](https://upload.wikimedia.org/wikipedia/commons/4/4c/Catharus_ustulatus.jpg)
+
+*Swainson’s Thrush (*Catharus ustulatus*) — Photo: Wikimedia Commons*
+
+
 **Background**
 
-Swainson’s Thrush (scientific name Catharus ustulatus), is a small to medium-sized migratory songbird in the thrush family (Turdidae). It is known for its olive-brown back, buff-colored underparts, a distinct pale eye-ring, and a slightly spotted breast. The species is distributed widely across northern North America for breeding, and winters in Central and South America. The species includes two main subspecies groups — a coastal russet-back group and an inland olive-back group — which differ in both appearance and migration routes, reflecting their evolutionary divergence ([Audubon.org](https://www.audubon.org/field-guide/bird/swainsons-thrush))
+Swainson’s Thrush (scientific name Catharus ustulatus), is a small to medium-sized **migratory songbird** in the thrush family (Turdidae). It is known for its olive-brown back, buff-colored underparts, a distinct pale eye-ring, and a slightly spotted breast. The species is distributed widely across northern North America for breeding, and winters in Central and South America. The species includes two main subspecies groups — a coastal russet-back group and an inland olive-back group — which differ in both appearance and migration routes, reflecting their evolutionary divergence ([Audubon.org](https://www.audubon.org/field-guide/bird/swainsons-thrush))
 
 As a classic Nearctic–Neotropical migrant, Swainson’s Thrush travels thousands of kilometers each year. Spring migration typically occurs from mid-March to early June, while fall migration spans late July to early November. Inland birds tend to follow interior routes through the central U.S. into Central America, whereas coastal populations use a more Pacific flyway. These birds rely on forested stopover habitats along their route for rest and refueling, making them particularly sensitive to habitat changes across a vast geographic range ([E-bird Status and Trends](https://science.ebird.org/en/status-and-trends/species/swathr/range-map))
 
@@ -78,26 +83,19 @@ The interactive migration map below shows Swainson’s Thrush movement patterns 
 
 <iframe src="assets/img/Swainsons_Thrush_Migration_2023.html" width="100%" height="600px"></iframe>
 
-References:
+*References*
 
-## 📚 References
-
-Audubon. 2025. “Swainson’s Thrush – *Catharus ustulatus*.” *Audubon Field Guide*. National Audubon Society.  
+1. Audubon. 2025. “Swainson’s Thrush – *Catharus ustulatus*.” *Audubon Field Guide*. National Audubon Society.  
 [https://www.audubon.org/field-guide/bird/swainsons-thrush](https://www.audubon.org/field-guide/bird/swainsons-thrush)
-
-eBird. 2025. “Swainson’s Thrush — Status and Trends.” Cornell Lab of Ornithology.  
+2. eBird. 2025. “Swainson’s Thrush — Status and Trends.” Cornell Lab of Ornithology.  
 [https://science.ebird.org/en/status-and-trends/species/swathr/range-map](https://science.ebird.org/en/status-and-trends/species/swathr/range-map)
-
-Humpel, M., P. D. Taylor, I. Maggini, and D. R. Norris. 2020. “Migratory Connectivity and Conservation of Swainson’s Thrush (*Catharus ustulatus*) Using Automated Radio Telemetry.” *Scientific Reports* 10: 6364.  
+3. Humpel, M., P. D. Taylor, I. Maggini, and D. R. Norris. 2020. “Migratory Connectivity and Conservation of Swainson’s Thrush (*Catharus ustulatus*) Using Automated Radio Telemetry.” *Scientific Reports* 10: 6364.  
 [https://www.nature.com/articles/s41598-020-62132-6](https://www.nature.com/articles/s41598-020-62132-6)
-
-Mack, D. E., and W. Yong. 2020. “Swainson's Thrush (*Catharus ustulatus*), Version 1.0.” In *Birds of the World*, edited by A. F. Poole. Cornell Lab of Ornithology.  
+4. Mack, D. E., and W. Yong. 2020. “Swainson's Thrush (*Catharus ustulatus*), Version 1.0.” In *Birds of the World*, edited by A. F. Poole. Cornell Lab of Ornithology.  
 [https://doi.org/10.2173/bow.swathr.01](https://doi.org/10.2173/bow.swathr.01)
-
-U.S. Geological Survey. 2004. “Stopover Ecology of Western Avian Populations.” *USGS Fact Sheet 2004–3090*.  
+6. U.S. Geological Survey. 2004. “Stopover Ecology of Western Avian Populations.” *USGS Fact Sheet 2004–3090*.  
 [https://pubs.usgs.gov/fs/2004/3090/](https://pubs.usgs.gov/fs/2004/3090/)
-
-GBIF.org. (21 October 2025.) GBIF Occurrence Download. [https://doi.org/10.15468/dl.c96k9k](https://doi.org/10.15468/dl.c96k9k)
+7. GBIF.org. (21 October 2025.) GBIF Occurrence Download. [https://doi.org/10.15468/dl.c96k9k](https://doi.org/10.15468/dl.c96k9k)
 
 
 
