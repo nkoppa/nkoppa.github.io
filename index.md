@@ -72,13 +72,33 @@ Please find my full code for this analysis in my [repository](https://github.com
 
 **Map and Plot**
 
-The interactive migration map provides a spatial and temporal analysis of Swainson’s Thrush movements across North American ecoregions during 2023. By normalizing observation counts, the visualization accounts for differences in sampling effort and ecoregion area, enabling a more accurate comparison of habitat use. Results indicate that Swainson’s Thrush predominantly occupies northern forested ecoregions during the breeding season, with a marked southward shift in distribution during autumn migration. The identification of key stopover and breeding habitats highlights the species’ reliance on a diversity of ecological regions throughout its annual cycle. These findings underscore the importance of conserving a network of habitats along migratory routes to support population connectivity and long-term species persistence.
+The interactive migration map provides a spatial and temporal perspective of Swainson’s Thrush movements across North American ecoregions during the year 2023. After normalizing observation counts, the visualization accounts for differences in sampling effort and ecoregion area, enables a more accurate comparison of habitat use. Results indicate that Swainson’s Thrush predominantly occupies northern forested ecoregions during the breeding season, with a marked southward shift in distribution during autumn migration. The identification of key stopover and breeding habitats highlights the species’ reliance on a diversity of ecological regions throughout its annual cycle. These findings can be important for conserving a network of habitats along migratory routes to support population connectivity and long-term species persistence.
 
-
-The interactive migration map below shows Swainson’s Thrush movement patterns across North America.  
-You can zoom, pan, and interact with the data directly.
+The interactive migration map below shows Swainson’s Thrush movement patterns across North America. You can zoom, pan, and interact with the data directly below:
 
 <iframe src="assets/img/Swainsons_Thrush_Migration_2023.html" width="100%" height="600px"></iframe>
+
+References:
+
+## 📚 References
+
+Audubon. 2025. “Swainson’s Thrush – *Catharus ustulatus*.” *Audubon Field Guide*. National Audubon Society.  
+[https://www.audubon.org/field-guide/bird/swainsons-thrush](https://www.audubon.org/field-guide/bird/swainsons-thrush)
+
+eBird. 2025. “Swainson’s Thrush — Status and Trends.” Cornell Lab of Ornithology.  
+[https://science.ebird.org/en/status-and-trends/species/swathr/range-map](https://science.ebird.org/en/status-and-trends/species/swathr/range-map)
+
+Humpel, M., P. D. Taylor, I. Maggini, and D. R. Norris. 2020. “Migratory Connectivity and Conservation of Swainson’s Thrush (*Catharus ustulatus*) Using Automated Radio Telemetry.” *Scientific Reports* 10: 6364.  
+[https://www.nature.com/articles/s41598-020-62132-6](https://www.nature.com/articles/s41598-020-62132-6)
+
+Mack, D. E., and W. Yong. 2020. “Swainson's Thrush (*Catharus ustulatus*), Version 1.0.” In *Birds of the World*, edited by A. F. Poole. Cornell Lab of Ornithology.  
+[https://doi.org/10.2173/bow.swathr.01](https://doi.org/10.2173/bow.swathr.01)
+
+U.S. Geological Survey. 2004. “Stopover Ecology of Western Avian Populations.” *USGS Fact Sheet 2004–3090*.  
+[https://pubs.usgs.gov/fs/2004/3090/](https://pubs.usgs.gov/fs/2004/3090/)
+
+GBIF.org. (21 October 2025.) GBIF Occurrence Download. [https://doi.org/10.15468/dl.c96k9k](https://doi.org/10.15468/dl.c96k9k)
+
 
 
 
