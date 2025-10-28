@@ -74,5 +74,8 @@ Please find my full code for this analysis in my [repository](https://github.com
 
 The interactive migration map provides a spatial and temporal analysis of Swainson’s Thrush movements across North American ecoregions during 2023. By normalizing observation counts, the visualization accounts for differences in sampling effort and ecoregion area, enabling a more accurate comparison of habitat use. Results indicate that Swainson’s Thrush predominantly occupies northern forested ecoregions during the breeding season, with a marked southward shift in distribution during autumn migration. The identification of key stopover and breeding habitats highlights the species’ reliance on a diversity of ecological regions throughout its annual cycle. These findings underscore the importance of conserving a network of habitats along migratory routes to support population connectivity and long-term species persistence.
 
+<iframe src="assets/img/swainsons_thrush_map.html" width="100%" height="600px"></iframe>
+
+
 # **Contact Information**
 [Email](mailto:nisha.koppa@colorado.edu) . [Linkedin](https://www.linkedin.com/in/nisha-koppa-44a642120/) . [Github](https://github.com/nkoppa) 
