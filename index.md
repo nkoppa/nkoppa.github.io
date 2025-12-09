@@ -155,8 +155,8 @@ At first glance, these results suggest that pre-monsoon heat in India has not ch
 
 Some states show very clear warming signals. The most striking increases occur in Jammu & Kashmir, Mizoram, and Tripura, all of which experience warming between 0.25°C and 0.30°C per decade—several times higher than the national average. These trends are strong enough that they show up clearly despite the natural variability in year-to-year temperatures. They also highlight that the fastest warming in India is not occurring in the traditionally hottest regions, but rather in some of the cooler, high-elevation, or northeastern states.
 
-[Insert Figure 4 — fastest warming states]
-
+Figure 4. Top 10 Fastest-Warming States (Mean Tmax Trend per Decade)
+<p align="center"> <img src="assets/img/figure4.png" width="750"> </p>
 
 A different perspective emerges when focusing not on average temperatures but on the occurrence of extreme heat. While India as a whole shows a slight decrease in the number of very hot days (≥38°C), several western states move in the opposite direction. Gujarat, Dadra & Nagar Haveli, and Daman & Diu all show consistent increases in the frequency of days that cross the 38°C threshold. This suggests that even in places where average warming is modest, extremely hot days may still be becoming more common. For regions that already struggle with heat stress, this shift can have significant implications for health, labor productivity, and energy demand.
 
