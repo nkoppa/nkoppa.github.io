@@ -102,8 +102,75 @@ The interactive migration map below shows Swainson’s Thrush movement patterns 
 [https://pubs.usgs.gov/fs/2004/3090/](https://pubs.usgs.gov/fs/2004/3090/)
 7. GBIF.org. (21 October 2025.) GBIF Occurrence Download. [https://doi.org/10.15468/dl.c96k9k](https://doi.org/10.15468/dl.c96k9k)
 
+#### **4. Final Project**
+
+Title: 
+
+**Introduction**
+
+Heat is often called an invisible disaster as it does not leave behind physical destruction. Around the world, major heat events—from Europe in 2003 to Russia in 2010—have caused widespread health crises, power shortages, wildfires, and agricultural losses. Scientific assessments consistently show that heatwaves are becoming more frequent and more intense as the climate warms, posing growing risks for both ecosystems and societies.
+
+India is widely considered as one of the world’s most vulnerable countries to extreme heat. Major heatwaves in 1998, 2010, and 2015 resulted in thousands of recorded deaths (Azhar et al., 2014; Pattanaik et al., 2017). And importantly, many of the country’s hottest months occur before the summer monsoon arrives, creating conditions that can be dangerous for outdoor workers, vulnerable populations, and agricultural operations. These events have prompted growing concern that climate change may be reshaping not only how hot India becomes, but also when dangerous heat arrives and how it varies across regions.
+
+Given the diversity of climates across India—from Himalayan states to coastal regions to densely populated plains—it is valuable to understand how heat conditions are evolving at a regional scale, not just nationally. This project uses more than forty years of ERA5-Land reanalysis data to characterize pre-monsoon or summer heat across Indian states and to examine long-term changes in intensity, extremes, and seasonal timing. Rather than focusing on formal heatwave classification systems, the analysis highlights simple and intuitive indicators such as maximum temperature, extreme hot days, and the first occurrence of severe heat each year.
+
+**Data and Methods**
+
+The analysis is based on hourly 2-meter air temperature from the ERA5-Land reanalysis dataset, which provides spatially continuous temperature estimates at approximately 0.1° resolution. Using the Copernicus Data Store API, I downloaded hourly temperature fields for March through June for each year from 1980 to 2023. This period captures India’s pre-monsoon season, when heat episodes tend to peak. 
+
+After downloading, temperature values were converted from Kelvin to degrees Celsius. I then aggregated the hourly data into daily maximum temperature (Tmax), which provides a widely used indicator of heat stress.
+
+To summarize temperature patterns by state, I used a shapefile of India’s state boundaries and the Python library regionmask to assign each ERA5-Land grid cell to a state. For each state and each year, I averaged the daily Tmax values across all grid cells within its borders.
+With these daily state-level temperatures, I computed four main indicators:
+     1. Mean Tmax during March–June, which gives a sense of overall heat intensity.
+     2. The 95th percentile of Tmax, which captures more extreme heat.
+     3. The number of days with Tmax ≥ 38°C.
+
+Note that I chose 38°C because temperatures in the 37–40°C range are commonly used to indicate dangerous heat stress in India, particularly for outdoor work and health impacts (Mazdiyasni & AghaKouchak, 2017; Rohini et al., 2019). This makes it a simple but meaningful threshold for extreme hot days.
+     4. The day of the year when Tmax first exceeds 38°C, which provides a rough sense of when severe heat begins in each state.
+     
+To understand long-term changes, I estimated linear trends in each metric for every state using ordinary least squares. All data processing and analysis were done using Python tools such as xarray, pandas, geopandas, regionmask, matplotlib, and hvplot, allowing for a fully reproducible workflow.
+
+**Results**
+
+To understand how heat has changed across India over the past forty-four years, I began by looking at the national averages of pre-monsoon temperature. When all states are combined, the long-term picture appears surprisingly stable. The mean daily maximum temperature from March through June increases only slightly—about four hundredths of a degree per decade—which is almost flat over the whole period. Even the more extreme end of the temperature distribution, captured by the 95th percentile of daily Tmax, shows a very mild declining trend. A similar pattern emerges for extremely hot days (defined as days above 38°C): on average, India as a whole actually sees a small decrease over time.
+
+At first glance, these results suggest that pre-monsoon heat in India has not changed much. But national averages can easily hide important differences, and that is exactly what happens here. Once the data are broken down state by state, a much more nuanced picture emerges.
+
+### Figure 1. National Mean Tmax Trend (1980–2023)
+<p align="center">
+  <img src="assets/img/figure1.png" width="700">
+</p>
+
+### Figure 2. National 95th Percentile Tmax Trend
+<p align="center">
+  <img src="assets/img/figure2.png" width="700">
+</p>
+
+### Figure 3. Hot Days (≥38°C) Across India
+<p align="center">
+  <img src="assets/img/figure3.png" width="700">
+</p>
 
 
+Some states show very clear warming signals. The most striking increases occur in Jammu & Kashmir, Mizoram, and Tripura, all of which experience warming between 0.25°C and 0.30°C per decade—several times higher than the national average. These trends are strong enough that they show up clearly despite the natural variability in year-to-year temperatures. They also highlight that the fastest warming in India is not occurring in the traditionally hottest regions, but rather in some of the cooler, high-elevation, or northeastern states.
+
+[Insert Figure 4 — fastest warming states]
+
+
+A different perspective emerges when focusing not on average temperatures but on the occurrence of extreme heat. While India as a whole shows a slight decrease in the number of very hot days (≥38°C), several western states move in the opposite direction. Gujarat, Dadra & Nagar Haveli, and Daman & Diu all show consistent increases in the frequency of days that cross the 38°C threshold. This suggests that even in places where average warming is modest, extremely hot days may still be becoming more common. For regions that already struggle with heat stress, this shift can have significant implications for health, labor productivity, and energy demand.
+
+[Insert Figure 5 — hottest day increases]
+
+
+Finally, I examined whether extreme heat is occurring earlier in the year. Here, too, the patterns are uneven but meaningful. States such as Haryana and Rajasthan now tend to reach 38°C earlier in the spring than they did in 1980. The change is small—on the order of two to three days per decade—but over a long period, this results in substantially earlier onset of dangerous heat. This matters for agriculture, where crops and irrigation schedules are tied to seasonal timing, and for public health, since communities often prepare for heat later in the season.
+[Insert Figure 6 — onset timing shifts]
+
+
+Taken together, these results show that India’s pre-monsoon heat is not a single story. Nationally, temperatures appear stable, but regional patterns reveal diverse and sometimes opposing trends. Certain states are warming quickly, others are facing more frequent extreme heat, and still others are seeing heat arrive earlier each year. This diversity underscores the importance of studying heat at a local scale, especially in a country as geographically varied as India.
+
+
+**Conclusion**
 
 # **Contact Information**
 [Email](mailto:nisha.koppa@colorado.edu) . [Linkedin](https://www.linkedin.com/in/nisha-koppa-44a642120/) . [Github](https://github.com/nkoppa) 
