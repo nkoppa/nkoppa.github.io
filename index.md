@@ -154,13 +154,13 @@ Figure 3. Hot Days (≥38°C) Across India
 
 Some states show very clear warming signals. The most striking increases occur in Jammu & Kashmir, Mizoram, and Tripura, all of which experience warming between 0.25°C and 0.30°C per decade—several times higher than the national average. These trends are strong enough that they show up clearly despite the natural variability in year-to-year temperatures. They also highlight that the fastest warming in India is not occurring in the traditionally hottest regions, but rather in some of the cooler, high-elevation, or northeastern states.
 
-Figure 4. Top 10 Fastest-Warming States (Mean Tmax Trend per Decade)
-<p align="center"> <img src="assets/img/figure4.png" width="750"> </p>
+Figure 4. Long-Term Trend in Mean March–June Tmax Across Indian States (°C per Decade, 1980–2023)
+<p align="center"> <img src="assets/img/figure7.png" width="750"> </p>
 
 A different perspective emerges when focusing not on average temperatures but on the occurrence of extreme heat. While India as a whole shows a slight decrease in the number of very hot days (≥38°C), several western states move in the opposite direction. Gujarat, Dadra & Nagar Haveli, and Daman & Diu all show consistent increases in the frequency of days that cross the 38°C threshold. This suggests that even in places where average warming is modest, extremely hot days may still be becoming more common. For regions that already struggle with heat stress, this shift can have significant implications for health, labor productivity, and energy demand.
 
-Figure 5. States With Increasing Numbers of Hot Days (≥38°C)
-<p align="center"> <img src="assets/img/figure5.png" width="750"> </p>
+Figure 5. Figure 5. Long-Term Trend in the Number of Hot Days (≥38°C) Across India (1980–2023)
+<p align="center"> <img src="assets/img/figure8.png" width="750"> </p>
 
 Finally, I examined whether extreme heat is occurring earlier in the year. Here, too, the patterns are uneven but meaningful. States such as Haryana and Rajasthan now tend to reach 38°C earlier in the spring than they did in 1980. The change is small—on the order of two to three days per decade—but over a long period, this results in substantially earlier onset of dangerous heat. This matters for agriculture, where crops and irrigation schedules are tied to seasonal timing, and for public health, since communities often prepare for heat later in the season.
 
@@ -176,13 +176,18 @@ This project provides a state-level, four-decade view of pre-monsoon heat across
 
 These findings highlight that climate change impacts are not evenly distributed and that aggregated national numbers can easily obscure region-specific risks. The results also show the value of reanalysis datasets for understanding long-term climate patterns in places where observational data may be uneven or sparse. Although this study focuses only on temperature—and not on humidity or wet-bulb conditions, which more directly determine human heat stress—it offers a reproducible baseline for monitoring how extreme heat evolves across India’s diverse climate zones.
 
+**Code**
+
+Please find my repository with jupyter notebooks ([here](https://github.com/nkoppa/final-project)) to reproduce the above analysis. 
+
 **References**
 1. Auffhammer, M. (2017). Quantifying heat wave mortality risk and adaptation in India. Environmental Research Letters.
-2. Mazdiyasni, O., & AghaKouchak, A. (2017). Substantial increase in heat wave risks in the Indian subcontinent due to warming. Geophysical Research Letters, 44, 198–206.
-3. Rohini, P., Rajeevan, M., & Srivastava, A. K. (2019). Decline in the frequency of heatwaves over India. Climate Dynamics, 52, 675–693.
-4. Kjellstrom, T., Briggs, D., Freyberg, C., Lemke, B., Otto, M., & Hyatt, O. (2018). Heat, human performance, and occupational health: A review. Annual Review of Public Health, 39, 103–116.
-5. Clarke, J. F. (1972). Some effects of the urban structure on heat mortality. Environmental Research., 5, 93–104.
-6. Perkins-Kirkpatrick, S. E., & Lewis, S. C. (2020). Increasing trends in regional heatwaves. Nature Communications, 11, 3357.
+2. Chaudhury, S. K., J. M. Gore, and KC Sinha Ray. "Impact of heat waves over India." Current Science 79, no. 2 (2000): 153-155.
+3. Mazdiyasni, Omid, Amir AghaKouchak, Steven J. Davis, Shahrbanou Madadgar, Ali Mehran, Elisa Ragno, Mojtaba Sadegh et al. "Increasing probability of mortality during Indian heat waves." Science advances 3, no. 6 (2017): e1700066.
+4. Rohini, P., M. Rajeevan, and P. Mukhopadhay. "Future projections of heat waves over India from CMIP5 models." Climate dynamics 53, no. 1 (2019): 975-988.
+5. Kjellstrom, Tord, David Briggs, Chris Freyberg, Bruno Lemke, Matthias Otto, and Olivia Hyatt. "Heat, human performance, and occupational health: a key issue for the assessment of global climate change impacts." Annual review of public health 37, no. 1 (2016): 97-112.
+6. Clarke, John F. "Some effects of the urban structure on heat mortality." Environmental research 5, no. 1 (1972): 93-104.
+7. Perkins-Kirkpatrick, S. E., and S. C. Lewis. "Increasing trends in regional heatwaves." Nature communications 11, no. 1 (2020): 3357.
 
 # **Contact Information**
 [Email](mailto:nisha.koppa@colorado.edu) . [Linkedin](https://www.linkedin.com/in/nisha-koppa-44a642120/) . [Github](https://github.com/nkoppa) 
