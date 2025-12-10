@@ -159,10 +159,10 @@ Figure 4. Long-Term Trend in Mean March–June Tmax Across Indian States (°C pe
 
 A different perspective emerges when focusing not on average temperatures but on the occurrence of extreme heat. While India as a whole shows a slight decrease in the number of very hot days (≥38°C), several western states move in the opposite direction. Gujarat, Dadra & Nagar Haveli, and Daman & Diu all show consistent increases in the frequency of days that cross the 38°C threshold. This suggests that even in places where average warming is modest, extremely hot days may still be becoming more common. For regions that already struggle with heat stress, this shift can have significant implications for health, labor productivity, and energy demand.
 
-Figure 5. Figure 5. Long-Term Trend in the Number of Hot Days (≥38°C) Across India (1980–2023)
+Figure 5. Long-Term Trend in the Number of Hot Days (≥38°C) Across India (1980–2023)
 <p align="center"> <img src="assets/img/figure8.png" width="750"> </p>
 
-Finally, I examined whether extreme heat is occurring earlier in the year. Here, too, the patterns are uneven but meaningful. States such as Haryana and Rajasthan now tend to reach 38°C earlier in the spring than they did in 1980. The change is small—on the order of two to three days per decade—but over a long period, this results in substantially earlier onset of dangerous heat. This matters for agriculture, where crops and irrigation schedules are tied to seasonal timing, and for public health, since communities often prepare for heat later in the season.
+Finally, I explored whether extreme heat is occurring earlier in the year. Here, too, the patterns are uneven but meaningful. States such as Haryana and Rajasthan now tend to reach 38°C earlier in the spring than they did in 1980. The change is small—on the order of two to three days per decade—but over a long period, this results in substantially earlier onset of extreme heat. This would have major implications for agriculture, where crops and irrigation schedules are tied to seasonal timing, and for public health, since communities often prepare for heat later in the season.
 
 Figure 6. States Where Extreme Heat Arrives Earlier (Negative = Earlier DOY)
 <p align="center"> <img src="assets/img/figure6.png" width="750"> </p>
