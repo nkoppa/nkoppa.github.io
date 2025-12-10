@@ -180,6 +180,11 @@ These findings highlight that climate change impacts are not evenly distributed 
 
 Please find my repository with jupyter notebooks ([here](https://github.com/nkoppa/final-project)) to reproduce the above analysis. 
 
+**Data sources**
+
+1. Muñoz-Sabater, J., Dutra, E., et al. (2021). ERA5-Land hourly data from 1950 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). ([link](https://doi.org/10.24381/cds.e2161bac))
+2. Food and Agriculture Organization of the United Nations (FAO). (2020). Global Administrative Unit Layers (GAUL), AgroMaps India Shapefiles. FAO GeoNetwork. ([link](https://data.apps.fao.org/catalog/organization/agromaps))
+   
 **References**
 1. Auffhammer, M. (2017). Quantifying heat wave mortality risk and adaptation in India. Environmental Research Letters.
 2. Chaudhury, S. K., J. M. Gore, and KC Sinha Ray. "Impact of heat waves over India." Current Science 79, no. 2 (2000): 153-155.
@@ -188,6 +193,8 @@ Please find my repository with jupyter notebooks ([here](https://github.com/nkop
 5. Kjellstrom, Tord, David Briggs, Chris Freyberg, Bruno Lemke, Matthias Otto, and Olivia Hyatt. "Heat, human performance, and occupational health: a key issue for the assessment of global climate change impacts." Annual review of public health 37, no. 1 (2016): 97-112.
 6. Clarke, John F. "Some effects of the urban structure on heat mortality." Environmental research 5, no. 1 (1972): 93-104.
 7. Perkins-Kirkpatrick, S. E., and S. C. Lewis. "Increasing trends in regional heatwaves." Nature communications 11, no. 1 (2020): 3357.
+8. Azhar, Gulrez Shah, Dileep Mavalankar, Amruta Nori-Sarma, Ajit Rajiva, Priya Dutta, Anjali Jaiswal, Perry Sheffield, Kim Knowlton, and Jeremy J. Hess. "Heat-related mortality in India: excess all-cause mortality associated with the 2010 Ahmedabad heat wave." PloS one 9, no. 3 (2014): e91831.
+9. Pattanaik, D. R., M. Mohapatra, A. K. Srivastava, and Arun Kumar. "Heat wave over India during summer 2015: an assessment of real time extended range forecast." Meteorology and Atmospheric Physics 129, no. 4 (2017): 375-393.
 
 # **Contact Information**
 [Email](mailto:nisha.koppa@colorado.edu) . [Linkedin](https://www.linkedin.com/in/nisha-koppa-44a642120/) . [Github](https://github.com/nkoppa) 
