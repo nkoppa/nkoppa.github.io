@@ -104,7 +104,7 @@ The interactive migration map below shows Swainson’s Thrush movement patterns 
 
 #### **4. Final Project**
 
-#### **Title: Mapping India’s Heat Risks: A Data-Driven Look at Pre-Monsoon Temperatures Since 1980**
+#### **Title: Mapping India’s Heat Risks: Exploring Pre-Monsoon Temperatures Since 1980**
 
 **Introduction**
 
@@ -112,7 +112,7 @@ Heat is often called an invisible disaster as it does not leave behind physical 
 
 India is widely considered as one of the world’s most vulnerable countries to extreme heat. Major heatwaves in 1998, 2010, and 2015 resulted in thousands of recorded deaths (Azhar et al., 2014; Pattanaik et al., 2017). And importantly, many of the country’s hottest months occur before the summer monsoon arrives, creating conditions that can be dangerous for outdoor workers, vulnerable populations, and agricultural operations. These events have prompted growing concern that climate change may be reshaping not only how hot India becomes, but also when dangerous heat arrives and how it varies across regions.
 
-Given the diversity of climates across India—from Himalayan states to coastal regions to densely populated plains—it is valuable to understand how heat conditions are evolving at a regional scale, not just nationally. This project uses more than forty years of ERA5-Land reanalysis data to characterize pre-monsoon or summer heat across Indian states and to examine long-term changes in intensity, extremes, and seasonal timing. Rather than focusing on formal heatwave classification systems, the analysis highlights simple and intuitive indicators such as maximum temperature, extreme hot days, and the first occurrence of severe heat each year.
+Given the diversity of climates across India—from Himalayan states to coastal regions to densely populated plains—it is valuable to understand how heat conditions are evolving at a regional scale, not just nationally. This analysis uses more than forty years of ERA5-Land reanalysis data to characterize pre-monsoon month heat across Indian states and to examine long-term changes in intensity, extremes, and seasonal timing. Specifically, this study tries to answer the following research question: How have pre-monsoon temperatures, extreme hot days, and the timing of extreme heat changed across Indian states between 1980 and 2023? Rather than focusing on formal heatwave classification systems, the analysis highlights simple and intuitive indicators such as maximum temperature, extreme hot days, and the first occurrence of severe heat each year.
 
 **Data and Methods**
 
@@ -172,9 +172,9 @@ Taken together, these results show that India’s pre-monsoon heat is not a sing
 
 **Conclusion**
 
-This project provides a state-level, four-decade view of pre-monsoon heat across India using ERA5-Land reanalysis data. While national averages suggest that pre-monsoon temperatures have remained relatively stable since 1980, the state-level analysis reveals a much more complex story. Some regions—particularly parts of the Himalayas and the Northeast—are warming far more quickly than the country as a whole. Other states, especially in western India, are experiencing an increase in the number of extremely hot days, even without significant changes in their average temperatures. Still others show measurable shifts toward earlier seasonal heat, which could affect agriculture, water use, and heat preparedness.
+This analysis provides a state-level, four-decade view of pre-monsoon heat across India using ERA5-Land reanalysis data. While national averages suggest that pre-monsoon temperatures have remained relatively stable since 1980, the state-level analysis reveals a much more complex story. Some regions—particularly parts of the Himalayas and the Northeast—are warming far more quickly than the country as a whole. Other states, especially in western India, are experiencing an increase in the number of extremely hot days, even without significant changes in their average temperatures. Still others show measurable shifts toward earlier seasonal heat, which could affect agriculture, water use, and heat preparedness.
 
-These findings highlight that climate change impacts are not evenly distributed and that aggregated national numbers can easily obscure region-specific risks. The results also show the value of reanalysis datasets for understanding long-term climate patterns in places where observational data may be uneven or sparse. Although this study focuses only on temperature—and not on humidity or wet-bulb conditions, which more directly determine human heat stress—it offers a reproducible baseline for monitoring how extreme heat evolves across India’s diverse climate zones.
+Importantly, these findings highlight that climate change impacts are not evenly distributed and that aggregated national numbers can easily obscure region-specific risks. The results also show the value of reanalysis datasets for understanding long-term climate patterns in places where observational data may be uneven or sparse. Although this study focuses only on temperature—and not on humidity or wet-bulb conditions, which more directly determine human heat stress—it offers a reproducible baseline for monitoring how extreme heat evolves across India’s diverse climate zones.
 
 **Code**
 
